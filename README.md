@@ -2,9 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student and novice developer</h3>
 <!--
-**VarvaraKurakova/VarvaraKurakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 [![codewars](https://www.codewars.com/users/VarvaraKurakova/badges/large)](https://www.codewars.com/users/VarvaraKurakova)   
 
