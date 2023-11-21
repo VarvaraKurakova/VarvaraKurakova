@@ -3,11 +3,11 @@
 <h3 align="center">Computer science student and novice developer</h3>
 
 
-(https://www.codewars.com/users/VarvaraKurakova/badges/large)](https://www.codewars.com/users/VarvaraKurakova)   
+[![codewars](https://www.codewars.com/users/VarvaraKurakova/badges/large)](https://www.codewars.com/users/VarvaraKurakova)   
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kurakovavr)](https://github.com/KnlnKS/leetcode-stats)
 
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
